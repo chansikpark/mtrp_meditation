@@ -1,5 +1,7 @@
 > Khārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, khārikassa vā abhiharati, khārikassa vā bahuṃ gaṇhāti, khārikassa vā vaṇṇaṃ bhāsati.
+
 > Akhārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, akhārikassa vā abhiharati, akhārikassa vā bahuṃ gaṇhāti, akhārikassa vā vaṇṇaṃ bhāsati.
+
 > *Satipaṭṭhānasaṃyuttaṃ*
 
 ***
