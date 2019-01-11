@@ -1,3 +1,5 @@
+# Acute, localised thermoceptive changes in Buddhist meditation coincident with myofascial knotting and release 
+
 > Khārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, khārikassa vā abhiharati, khārikassa vā bahuṃ gaṇhāti, khārikassa vā vaṇṇaṃ bhāsati.
 
 > Akhārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, akhārikassa vā abhiharati, akhārikassa vā bahuṃ gaṇhāti, akhārikassa vā vaṇṇaṃ bhāsati.
@@ -6,12 +8,12 @@
 
 ***
 
-# Abstract
+## Abstract
 
 Myofascial pain accounts for large portions of chronic pain reports. Buddhist meditators report tension and thermal changes during meditation. It's postulated that myofascial release can be accomplished through Buddhist meditation via localised vascular dilation mediated by local nitric oxide abundance due to attentional and respiratory coupling that occurs in breathing-oriented meditation.
 
 
-# Introduction
+## Introduction
 
 Myofascial pain accounts for large portions of chronic pain reports. A myofascial trigger point (MTrP) is classically defined as "a hyperirritable spot in skeletal muscle that is associated with a hypersensitive palpable nodule in a taut band" (Simons 1999) and is commonly recognized as "muscle knots" (Kao, 2007). Biochemicals local to active MTrPs were found to have a lower pH (Shah 2008). Acidic pH levels within muscle have been shown to be associated with pain (Issberner 1996). The receptor proteins hypothesised to be involved in this nociception (Shah 2008) are also involved in thermoception ().
 
@@ -21,15 +23,15 @@ In a study of meditation-related challenges faced by Western Buddhists, a third 
 
 Here we explore how Buddhist meditation may affect MTrPs.
 
-# Method
+## Method
 
 Subject is male, 30's, light smoker, Buddhist meditator of three years with five years of dabbling preceding. Bilateral subscapularis trigger points reported. Following a full day of activity on a keyboard with unchecked ergonimics, pain level of trigger point palpation noted along with muscle test preceding a 90-minute meditation followed by pain level noting and muscle test.
 
-# Results
+## Results
 
 Decreased pain levels, increased external rotation prior to nociception. Slight increase in nociception followed by acute localised coolness accompanied by tingling.
 
-# Discussion
+## Discussion
 
 Buddhism is a religion centred around the elimination of pain (dukkha). A core doctrine for salvation in Buddhism is found in The Seven Factors of Awakening (satta-bojjhanga) which lists Refreshment (piti) and Relaxation (passaddhi) as the fourth and fifth of seven sequentally causative factors. Burning (parilaha) is listed as what is counter to and eliminated in producing Refreshment with Dysfunction (dutthulla) listed for that of Relaxation. 
 
@@ -39,7 +41,7 @@ It's postulated that localised vascular dilation mediated by nitric oxide increa
 
 Some consider nitric oxide as the biomolecular manifestation of prana. Nitric oxide has also been cited as a potential cancer-promoting or anti-cancer agent. Possibly, excess focus on a tumor may initiate or exacerbate metastasis.
 	
-# References
+## References
 
 10.1016/j.apmr.2007.10.018
 Biochemicals associated with pain and inflammation are elevated in sites near to and remote from active myofascial trigger points.
