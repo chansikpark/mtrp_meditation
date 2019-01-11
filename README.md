@@ -1,8 +1,6 @@
 # Acute, localised thermoceptive changes in Buddhist meditation coincident with myofascial knotting and release 
 
-> Khārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, khārikassa vā abhiharati, khārikassa vā bahuṃ gaṇhāti, khārikassa vā vaṇṇaṃ bhāsati.
-
-> Akhārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, akhārikassa vā abhiharati, akhārikassa vā bahuṃ gaṇhāti, akhārikassa vā vaṇṇaṃ bhāsati.
+> Khārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, khārikassa vā abhiharati, khārikassa vā bahuṃ gaṇhāti, khārikassa vā vaṇṇaṃ bhāsati. Akhārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, akhārikassa vā abhiharati, akhārikassa vā bahuṃ gaṇhāti, akhārikassa vā vaṇṇaṃ bhāsati.
 
 > *Satipaṭṭhānasaṃyuttaṃ*
 
@@ -29,7 +27,7 @@ Subject is male, 30's, light smoker, Buddhist meditator of three years with five
 
 ## Results
 
-Decreased pain levels, increased external rotation prior to nociception. Slight increase in nociception followed by acute localised coolness accompanied by tingling.
+Decreased pain levels, increased external rotation prior to nociception after meditation. Slight increase in nociception followed by acute localised coolness accompanied by tingling during meditation.
 
 ## Discussion
 
@@ -45,4 +43,18 @@ Some consider nitric oxide as the biomolecular manifestation of prana. Nitric ox
 
 10.1016/j.apmr.2007.10.018
 Biochemicals associated with pain and inflammation are elevated in sites near to and remote from active myofascial trigger points.
+
+10.15430/JCP.2016.21.1.1
+The Potential Role of Nitric Oxide in Halting Cancer Progression Through Chemoprevention
+
+10.1111/psyp.13091
+Coupling of respiration and attention via the locus coeruleus: Effects of meditation and pranayama.
+
+The Trigger Point Therapy Workbook
+
+10.1016/j.concog.2017.10.015
+The neuropsychophysiology of tingling.
+
+10.1371/journal.pone.0176239
+The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists
 
