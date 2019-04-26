@@ -37,7 +37,7 @@ In the Integrated Trigger Point Hypothesis, a chronic excess of the neurotransmi
 
 It's postulated that localised vascular dilation mediated by nitric oxide increase () mediated by locus coeruleus and respiratory coupling () is involved in the results above. The acute decrease in local blood pressure coupled with the normalization of pH may be responsible for the acute, local perception of coolness.
 
-Some consider nitric oxide as the biomolecular manifestation of prana. Nitric oxide has also been cited as a potential cancer-promoting or anti-cancer agent. Possibly, excess focus on a tumor may initiate or exacerbate metastasis.
+Some consider nitric oxide as the biomolecular manifestation of prana. Nitric oxide has also been cited as a potential cancer-promoting or anti-cancer agent. Speculatively, excess focus on a tumor in naive or nascent meditation may initiate or exacerbate metastasis.
 	
 ## References
 
