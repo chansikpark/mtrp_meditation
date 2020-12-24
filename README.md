@@ -1,4 +1,4 @@
-# DISCLAIMER: This repository has been made public (again) for the sole purpose of soliciting collaboration, feedback, and/or reaction. The contents herein are (and were) in no way to be seen as declaring—or even indicative of—anything true, useful, or possible. Please feel free to contact the owner.
+# DISCLAIMER: This repository has been made public (again) for the sole purpose of soliciting collaboration, feedback, and/or reaction. The contents herein are (and were) in no way to be seen as declaring—or even indicative of—anything true, useful, or possible. Please feel free to contact the owner, or otherwise engage with the appropriate mechanisms available on this website as warranted.
 
 ***
 
