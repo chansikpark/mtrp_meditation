@@ -1,3 +1,7 @@
+# DISCLAIMER: This repository has been made public for the sole purpose of soliciting collaboration. The contents herein are in no way to be seen as declaring or even indicative of anything true, useful, or possible.
+
+***
+
 # Acute, localised thermoceptive changes in Buddhist meditation coincident with myofascial knotting and release 
 
 > Khārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, khārikassa vā abhiharati, khārikassa vā bahuṃ gaṇhāti, khārikassa vā vaṇṇaṃ bhāsati. Akhārikaṃ vā me ajja bhattu sūpeyyaṃ ruccati, akhārikassa vā abhiharati, akhārikassa vā bahuṃ gaṇhāti, akhārikassa vā vaṇṇaṃ bhāsati.
