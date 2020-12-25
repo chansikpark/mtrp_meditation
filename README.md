@@ -1,4 +1,4 @@
-# DISCLAIMER: This repository has been made public (again) for the sole purpose of soliciting collaboration, feedback, and/or reaction. Any non-released content herein—ie. anything not in a branch explicitly tagged as a release with major version—is (and was) in no way to be seen as declaring—or even indicative of—anything true, useful, or possible. Please feel free to contact the owner, or otherwise engage with the appropriate mechanisms available on this website as warranted.
+# DISCLAIMER: This repository has been made public (again) for the sole purpose of soliciting collaboration, feedback, and/or reaction. Any non-released content herein—ie. anything not in a branch explicitly tagged as a release with major version greater than zero—is (and was) in no way to be seen as declaring—or even indicative of—anything true, useful, or possible. Please feel free to contact the owner, or otherwise engage with the appropriate mechanisms available on this website as warranted.
 
 ***
 
