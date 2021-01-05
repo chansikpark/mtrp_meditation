@@ -1,10 +1,6 @@
-> “Yo, bhikkhave, evaṃ vadeyya: ‘yathā yathāyaṃ puriso kammaṃ karoti tathā tathā taṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso na hoti, okāso na paññāyati sammā dukkhassa antakiriyāya.
+> Anyone who brings into their mind the great ocean includes all of the streams that run down into it. In the same way, anyone who has developed and cultivated mindfulness of the body includes all of the skillful qualities that play a part in realization.
 
-> Yo ca kho, bhikkhave, evaṃ vadeyya: ‘yathā yathā vedanīyaṃ ayaṃ puriso kammaṃ karoti tathā tathāssa vipākaṃ paṭisaṃvediyatī’ti, evaṃ santaṃ, bhikkhave, brahmacariyavāso hoti, okāso paññāyati sammā dukkhassa antakiriyāya. 
-
-https://suttacentral.net/an3.100/pli/ms
-
-https://suttacentral.net/licensing
+— Kāyagatāsati Sutta ([tr. Sujato](https://suttacentral.net/mn119/en/sujato))
 
 ***
 
