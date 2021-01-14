@@ -15,9 +15,9 @@ The only English translation I'm aware of is granted to us by the prolificity of
 > 4. by rejecting their deprivation for their non-deprivation, 
 > 5. by rejecting their harrassment for their non-harrassment 
 >
-> [with the thought] 'Let all beings be
+> [with the thought] 'Let all beings
 >
-> 6. free from enmity and not inimical, 
+> 6. be free from enmity and not inimical, 
 > 7. have pleasure and not pain, 
 > 8. have bliss in their hearts and not pain in their hearts'. 
 
