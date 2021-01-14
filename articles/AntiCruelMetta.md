@@ -14,11 +14,13 @@ The only English translation I'm aware of is granted to us by the prolificity of
 > 3. by rejecting their disappointment for their non-disappointment,
 > 4. by rejecting their deprivation for their non-deprivation, 
 > 5. by rejecting their harrassment for their non-harrassment 
->
+
+By the first five aspects, we reject ([vijjeti](https://suttacentral.net/define/vajjati)) victimizing in the form of oppression ([pīḷana](https://suttacentral.net/define/pīḷana)), injury ([upaghāta](https://suttacentral.net/define/upaghāta)), disappointment ([santāpa](https://suttacentral.net/define/santāpa); torment), deprivation ([pariyādāna](https://suttacentral.net/define/pariyādāna)), and harrassment ([vihesa](https://suttacentral.net/define/vihesā)). Victims abound. Bring them to mind. Be on their side.
+
 > [with the thought] 'Let all beings
 >
 > 6. be free from enmity and not inimical, 
 > 7. have pleasure and not pain, 
 > 8. have bliss in their hearts and not pain in their hearts'. 
 
-By the first five aspects, we reject ([vijjeti](https://suttacentral.net/define/vajjati)) victimizing in the form of oppression ([pīḷana](https://suttacentral.net/define/pīḷana)), injury ([upaghāta](https://suttacentral.net/define/upaghāta)), disappointment ([santāpa](https://suttacentral.net/define/santāpa); torment), deprivation ([pariyādāna](https://suttacentral.net/define/pariyādāna)), and harrassment ([vihesa](https://suttacentral.net/define/vihesā)). There is surely no lack of victims to be found in the world. Bring them to mind. Be on their side. With the final three aspects, a universal attitude is cultivated—one by which one can ever hope that even the most hateful might find reform.
+With the final three aspects, a universal attitude is cultivated—one by which one can ever hope that even the most hateful might find reform.
