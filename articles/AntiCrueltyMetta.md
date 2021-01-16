@@ -15,7 +15,7 @@ The only English translation I'm aware of is granted to us by the prolificity of
 > 4. by rejecting their deprivation for their non-deprivation, 
 > 5. by rejecting their harrassment for their non-harrassment 
 
-By the first five aspects, we reject ([vijjeti](https://suttacentral.net/define/vajjati)) victimizing in the form of oppression ([pīḷana](https://suttacentral.net/define/pīḷana)), injury ([upaghāta](https://suttacentral.net/define/upaghāta)), disappointment ([santāpa](https://suttacentral.net/define/santāpa); torment), deprivation ([pariyādāna](https://suttacentral.net/define/pariyādāna)), and harrassment ([vihesa](https://suttacentral.net/define/vihesā)). Victims abound. Bring them to mind. Be on their side.
+By the first five aspects, we reject ([vijjeti](https://suttacentral.net/define/vajjati)) victimizing in the form of oppression ([pīḷana](https://suttacentral.net/define/pīḷana)), injury ([upaghāta](https://suttacentral.net/define/upaghāta)), disappointment ([santāpa](https://suttacentral.net/define/santāpa); torment), deprivation ([pariyādāna](https://suttacentral.net/define/pariyādāna)), and harrassment ([vihesā](https://suttacentral.net/define/vihesā)). Victims abound. Bring them to mind. Be on their side.
 
 > [with the thought] 'Let all beings
 >
