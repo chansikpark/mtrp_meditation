@@ -21,4 +21,4 @@ The only English translation I'm aware of is granted by the prolificity of the l
 > 7. have pleasure and not pain, 
 > 8. have bliss in their hearts and not pain in their hearts'. 
 
-TODO draw out some linguistic features (eg. semantics, how the five relates to the three via grammar, maybe even analysis of the entire text), harken to goosebumps article
+TODO draw out some linguistic features (eg. semantics, how the five relates to the three via grammar, maybe even analysis of the entire text)
