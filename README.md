@@ -17,4 +17,4 @@
 ***
 
 A note on naming: 
-On additional consideration, "segmental_euphoric_autonomia" feels more apt.
+On additional consideration, "segmental_euphoric_autonomia" feels more apt. Mostly not to 'rule out' 'non-autonomia'. 
